@@ -1,24 +1,48 @@
-## ¡Hola! Soy Diego Garay
+# ¡Hola! 👋 Soy Diego Garay
 
-🎓 Estudiante de Análisis de Sistemas en la UADER - FCyT.
+🎓 **Estudiante de Análisis de Sistemas** en la **UADER - FCyT**.
 
-<!--
-**DiegoGarayGaston/DiegoGarayGaston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me interesa el desarrollo de software, la programación orientada a objetos, el desarrollo web y la electrónica. Siempre estoy aprendiendo nuevas tecnologías y desarrollando proyectos para seguir creciendo como programador.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Actualmente
 
-Actualmente
-📚 Estudiando Análisis de Sistemas.
-💻 Aprendiendo desarrollo web con HTML, CSS y JavaScript.
-⚙️ Profundizando en C++ y Programación Orientada a Objetos.
-🌱 Mejorando mis conocimientos sobre Git y GitHub.
+- 📚 Estudiando **Análisis de Sistemas**.
+- 💻 Aprendiendo **HTML, CSS y JavaScript**.
+- ⚙️ Profundizando en **C++** y **Programación Orientada a Objetos**.
+- 🌱 Mejorando mis conocimientos de **Git** y **GitHub**.
+
+---
+
+## 🛠️ Tecnologías
+
+### Lenguajes
+
+- C++
+- HTML
+- CSS
+- JavaScript
+
+### Herramientas
+
+- Git
+- GitHub
+- Visual Studio Code
+- KiCad
+- Arduino IDE
+
+---
+
+## 📚 Intereses
+
+- 💻 Desarrollo de Software
+- 🌐 Desarrollo Web
+- 🧩 Programación Orientada a Objetos
+- ⚡ Electrónica
+- 🔌 Diseño de PCB
+- 🚀 Aprendizaje continuo
+
+---
+
+> *"Siempre aprendiendo, un proyecto a la vez."*
