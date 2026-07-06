@@ -1,4 +1,6 @@
-## Hi there 👋
+## ¡Hola! Soy Diego Garay
+
+🎓 Estudiante de Análisis de Sistemas en la UADER - FCyT.
 
 <!--
 **DiegoGarayGaston/DiegoGarayGaston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Actualmente
+📚 Estudiando Análisis de Sistemas.
+💻 Aprendiendo desarrollo web con HTML, CSS y JavaScript.
+⚙️ Profundizando en C++ y Programación Orientada a Objetos.
+🌱 Mejorando mis conocimientos sobre Git y GitHub.
