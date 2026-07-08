@@ -30,9 +30,7 @@ Me interesa el desarrollo de software, la programación orientada a objetos, el 
 
 - Git
 - GitHub
-- Visual Studio Code
-- KiCad
-- Arduino IDE
+
 
 ---
 
