@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Diego Garay
 
-<img width="813" height="295" alt="7218e76aa7ebc577b18f197a52fcd89f" src="https://github.com/user-attachments/assets/e3cd5035-d06a-4b74-ada3-6b50628323d2" />
+<img width="735" height="271" alt="1f31484eb94a802f5d6065b7b059435e" src="https://github.com/user-attachments/assets/5e47dd72-a17d-45b7-9454-27246799b120" />
 
 🎓 **Estudiante de Análisis de Sistemas** en la **UADER - FCyT**.
 
@@ -19,18 +19,9 @@ Me interesa el desarrollo de software, la programación orientada a objetos, el 
 
 ## 🛠️ Tecnologías
 
-### Lenguajes
-
-- C++
-- HTML
-- CSS
-- JavaScript
-
-### Herramientas
-
-- Git
-- GitHub
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,git,github,vscode,qt,arduino&perline=5" />
+</p>
 
 ---
 
@@ -45,6 +36,7 @@ Me interesa el desarrollo de software, la programación orientada a objetos, el 
 
 ---
 
+```text
                +               | |
                       '         \ \__,
                   *          +   '--'  *
@@ -68,5 +60,6 @@ Me interesa el desarrollo de software, la programación orientada a objetos, el 
           ██║  ██║██║██╔══╝  ██║   ██║██║   ██║
           ██████╔╝██║███████╗╚██████╔╝╚██████╔╝
           ╚═════╝ ╚═╝╚══════╝ ╚═════╝  ╚═════╝
+```
 
 > *"Siempre aprendiendo, un proyecto a la vez."*
