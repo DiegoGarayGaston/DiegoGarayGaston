@@ -30,8 +30,6 @@ Me interesa el desarrollo de software, la programación orientada a objetos, el 
 - 💻 Desarrollo de Software
 - 🌐 Desarrollo Web
 - 🧩 Programación Orientada a Objetos
-- ⚡ Electrónica
-- 🔌 Diseño de PCB
 - 🚀 Aprendizaje continuo
 
 ---
